@@ -1,0 +1,17 @@
+.blue-header {
+  display: flex;
+  flex-direction: column;
+  background: rgb(0, 195, 255);
+  color: black;
+}
+
+.sub-objective {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  font-weight: bold;
+}
+
+.check-objective {
+  text-decoration: underline;
+}
